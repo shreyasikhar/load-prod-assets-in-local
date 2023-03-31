@@ -1,4 +1,4 @@
-# load-prod-assets-in-local
+# Load Production Assets In Local
 This plugin will load the production site assets in local environment without importing the uploads directory.
 
 Steps to use:
